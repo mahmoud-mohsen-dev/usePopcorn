@@ -1,6 +1,6 @@
 # 🍿 usePopcorn
 
-> A website to rate your favorite movies and added to your watchlist.
+> A website to rate your favorite movies and add them to your watchlist.
 
 <img src='./public/usePopcorn-preview.png'></img>
 
@@ -12,7 +12,7 @@ Check out the live app [usePopcorn](https://use-pop-corn-react.vercel.app/)
 
 **Search for a movie :**
 
--   Type a movie that you wanna search for in the search bar.
+-   Type a movie that you want to search for in the search bar.
 -   The app will fetch the data from the api then displayed on the left section.
 
 **Rate a movie**:
