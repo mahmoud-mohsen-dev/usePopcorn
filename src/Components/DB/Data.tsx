@@ -1,6 +1,6 @@
-import { MoviesList, WatchedList } from "../../Types";
+import { MoviesListType, WatchedListType } from "../../Types";
 
-export const tempMovieData: MoviesList = [
+export const tempMovieData: MoviesListType = [
     {
         imdbID: "tt1375666",
         Title: "Inception",
@@ -21,7 +21,7 @@ export const tempMovieData: MoviesList = [
     },
 ];
 
-export const tempWatchedData: WatchedList = [
+export const tempWatchedData: WatchedListType = [
     {
         imdbID: "tt1375666",
         Title: "Inception",

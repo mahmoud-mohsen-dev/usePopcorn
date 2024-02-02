@@ -44,12 +44,12 @@ Check out the live app [usePopcorn]()
 1. Clone this repository.
 
     ```bash
-    git clone
+    git clone https://github.com/mahmoud-mohsen-dev/usePopcorn.git
     ```
 
 2. Navigate to the Project Directory:
     ```bash
-    cd
+    cd usePopcorn
     ```
 3. Install Dependencies:
 
@@ -57,9 +57,7 @@ Check out the live app [usePopcorn]()
      npm install
     ```
 
-4. Development Server
-
-    ##### Start the Development Server:
+4. Start the Development Server:
 
     ```bash
     npm run dev
