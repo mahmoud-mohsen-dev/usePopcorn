@@ -6,7 +6,7 @@
 
 ## Try it Live!
 
-Check out the live app [usePopcorn]()
+Check out the live app [usePopcorn](https://use-pop-corn-react.vercel.app/)
 
 ## How to Use
 
